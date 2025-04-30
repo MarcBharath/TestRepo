@@ -8,5 +8,6 @@ public with sharing class PeerReviewClass {
         String reviewerName;
         String reviewerEmail;
         String reviewerId;
+        String reviewerNameEmail;
     }
 }
