@@ -6,5 +6,7 @@ public with sharing class PeerReviewClass {
         String approved;
         String comment;
         String reviewerName;
+        String reviewerEmail;
+        String reviewerId;
     }
 }
